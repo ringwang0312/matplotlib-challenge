@@ -1,0 +1,6 @@
+1.average volume of tumor in mouses treated with Ramicane is smallest compared to all the other regimens groups
+2.female and male mouses count seems even
+3. no outliers found in data when comparing final tumor volume for the most popular 4 regimen
+4. tumor volume in mouse s185 was decreasing as time going when treated with Capomulin
+5. for those mouses treated by Capomulin,a positive relation was found between mouse weight and avg tumor volume 
+correlation equation is as displayed y=0.95+21.55
